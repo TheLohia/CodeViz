@@ -1,2 +1,2 @@
-# Eduardo
-A tool to visualize code flow to help with documentation and debugging
+# CodeViz
+A tool to visualize libraries and code as a Directed Graph of classes, methods/functions and other callables. The idea is to provide a way to better document and track code changes and simplify debugging
